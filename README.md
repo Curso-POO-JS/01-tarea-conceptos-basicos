@@ -33,7 +33,7 @@ A continuación se describen algunas de las clases, métodos y atributos del dia
 - **_(String) getGastadoConFormato()_** Regresa la suma total de todos los gastos realizados como un String con el siguiente formato $1,234.56
 - **_(String) getDisponibleConFormato()_** Regresa el total de presupuesto disponible como un String con el siguiente formato $1,234.56
 - **_(String) getPresupuestoConFormato()_** Regresa el presupuesto total como un String con el siguiente formato $1,234.56
-- **_(void) listarGastos() Imprime en consola un listado de gastos con el siguiente formato (no es necesario que sea una tabla, puede ser un listado simple)
+- **_(void) listarGastos()_** Imprime en consola un listado de gastos con el siguiente formato (no es necesario que sea una tabla, puede ser un listado simple)
 
 Nun | Fecha | Descripción | Monto
 --- | --- | --- | --- 
