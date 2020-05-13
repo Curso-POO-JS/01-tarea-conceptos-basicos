@@ -1,4 +1,4 @@
-<img src="img/loteria.jpg">
+<img src="img/portada.jpg">
 
 # Conceptos Básicos
 
