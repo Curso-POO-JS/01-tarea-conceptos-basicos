@@ -39,8 +39,8 @@ Nun | Fecha | Descripción | Monto
 1 | 11/Mayo/2020 | Taxi | $50.00
 2 | 11/Mayo/2020 | Comida| $150.00
 3 | 12/Mayo/2020 | Hospedaje | $500.00
-  |  | Total gastado | $700.00
-  | | Total disponible | $1,300.00
+ _ | _ | Total gastado | $700.00
+ _ | _ | Total disponible | $1,300.00
   
 
 
