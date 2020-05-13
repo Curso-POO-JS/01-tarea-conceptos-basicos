@@ -34,6 +34,7 @@ A continuación se describen algunas de las clases, métodos y atributos del dia
 - (String) getDisponibleConFormato() Regresa el total de presupuesto disponible como un String con el siguiente formato $1,234.56
 - (String) getPresupuestoConFormato() Regresa el presupuesto total como un String con el siguiente formato $1,234.56
 - (void) listarGastos() Imprime en consola un listado de gastos con el siguiente formato (no es necesario que sea una tabla, puede ser un listado simple)
+
 Nun | Fecha | Descripción | Monto
 --- | --- | --- | --- 
 1 | 11/Mayo/2020 | Taxi | $50.00
