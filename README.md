@@ -29,7 +29,7 @@ A continuación se describen algunas de las clases, métodos y atributos del dia
 - (Number) Monto que corresponde al gasto realizado
 
 #### Métodos
-- (String) getFechaConFormato() Regresa un String con la fecha en la que se realizó el gasto con el siguiente formato 11/Mayo/2020
+- _(String) getFechaConFormato()_** Regresa un String con la fecha en la que se realizó el gasto con el siguiente formato 11/Mayo/2020
 - (String) getGastadoConFormato() Regresa la suma total de todos los gastos realizados como un String con el siguiente formato $1,234.56
 - (String) getDisponibleConFormato() Regresa el total de presupuesto disponible como un String con el siguiente formato $1,234.56
 - (String) getPresupuestoConFormato() Regresa el presupuesto total como un String con el siguiente formato $1,234.56
